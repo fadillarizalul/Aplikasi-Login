@@ -1,4 +1,4 @@
-# Aplikasi-Login
+# Latihan-Aplikasi-Login
 sebuah aplikasi yang memiliki fitur login
 
 Alur dari Fitur Login:
